@@ -1,0 +1,11 @@
+{
+ "name": "MIMHO",
+ "website": "https://mimho.io",
+ "description": "MIMHO – Mars Is My House. A Web3 ecosystem combining DAO governance, staking, marketplace, and on-chain utilities built on BNB Chain.",
+ "explorer": "https://bscscan.com/token/0xe6FF9A0Dcf6593f48732C79e53457e367232fD48",
+ "type": "BEP20",
+ "symbol": "MIMHO",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xe6FF9A0Dcf6593f48732C79e53457e367232fD48"
+}
